@@ -1,0 +1,28 @@
+.swiper {
+  height: calc(100vh - 64px);
+}
+
+.swiper-pagination {
+  display: flex !important;
+  justify-content: center;
+  align-items: center;
+}
+
+.swiper-pagination-bullet {
+  width: 18px !important;
+  height: 18px !important;
+  margin: 0 15px !important;
+  flex-shrink: 0 !important;
+  background: #000 !important;
+  opacity: unset !important;
+}
+
+.swiper-pagination-bullet-active {
+  width: 20px !important;
+  height: 20px !important;
+}
+
+.onboard-content__heading {
+  font-family: "SF Pro Text Bold";
+  font-size: 15px;
+}
