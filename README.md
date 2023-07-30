@@ -1,4 +1,4 @@
-# ## Teklief
+# Teklief
 Taklief is a Saudi platform based in Riyadh that provides a mobile marketplace to enable users to outsource their daily tasks. Users describe the task and set its budget, then community members place their bids to attempt to complete the task.
 
 
